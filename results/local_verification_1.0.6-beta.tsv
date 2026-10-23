@@ -1,0 +1,16 @@
+package	status	seconds	first_error
+IMO/problem_1/Solution-1	pass	97.5	
+IMO/problem_1/Solution-2	pass	87.2	
+IMO/problem_2/Solution-1	pass	0.7	
+IMO/problem_2/Solution-2	pass	1.1	
+IMO/problem_3	pass	6.6	
+IMO/problem_4	pass	34.9	
+IMO/problem_5/Solution-1	pass	8.1	
+IMO/problem_5/Solution-2	pass	199.5	
+IMO/problem_7	pass	6.1	
+IMO/problem_12	pass	33.1	
+IMO/problem_13	pass	431.8	
+IMO/problem_15	pass	5.2	
+IMO/problem_17	not_completed	6120	stopped after 1h42m; see code/STATUS.md
+IMO/problem_18	pass	130.2	
+IMO/problem_20	pass	56.2	

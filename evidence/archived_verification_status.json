@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "problem_id": 1,
+      "problem_dir": "problem_1",
+      "solution_dir": "Solution-1",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_1/Solution-1/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 210217,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_1/Solution-1/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 212821,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 1,
+      "problem_dir": "problem_1",
+      "solution_dir": "Solution-2",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_1/Solution-2/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 219330,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_1/Solution-2/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 221923,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 12,
+      "problem_dir": "problem_12",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_12/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 222354,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_12/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 224957,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 13,
+      "problem_dir": "problem_13",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_13/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 1192226,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_13/litex_strict.json",
+          "documents": 92,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": null,
+          "trace_chars": 0,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 15,
+      "problem_dir": "problem_15",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_15/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 157762,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_15/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 160365,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 17,
+      "problem_dir": "problem_17",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_17/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 3973211,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_17/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 3975814,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 18,
+      "problem_dir": "problem_18",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_18/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 420017,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_18/litex_strict_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 422620,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 2,
+      "problem_dir": "problem_2",
+      "solution_dir": "Solution-1",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 142599,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 145203,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_part_a_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 82928,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_part_a_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 85514,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_part_b_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 143065,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-1/litex_part_b_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 145651,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 2,
+      "problem_dir": "problem_2",
+      "solution_dir": "Solution-2",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_2/Solution-2/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 77874,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_2/Solution-2/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 77874,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 20,
+      "problem_dir": "problem_20",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_20/production_problem20_strict.json",
+          "documents": 1,
+          "all_success": false,
+          "first_result": "error",
+          "first_ok": false,
+          "trace_chars": 392001,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 1,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 3,
+      "problem_dir": "problem_3",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_3/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": null,
+          "trace_chars": 0,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        }
+      ]
+    },
+    {
+      "problem_id": 4,
+      "problem_dir": "problem_4",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_4/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 520108,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_4/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 522712,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 5,
+      "problem_dir": "problem_5",
+      "solution_dir": "Solution-1",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_5/Solution-1/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 62706,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_5/Solution-1/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 65310,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 5,
+      "problem_dir": "problem_5",
+      "solution_dir": "Solution-2",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_5/Solution-2/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 339402,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_5/Solution-2/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 341995,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    },
+    {
+      "problem_id": 7,
+      "problem_dir": "problem_7",
+      "solution_dir": ".",
+      "reports": [
+        {
+          "file": "IMO/solutions/problem_7/litex_verified.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 314930,
+          "trust_mentions_in_trace": 1,
+          "error_mentions_in_trace": 0,
+          "strict": false
+        },
+        {
+          "file": "IMO/solutions/problem_7/litex_strict.json",
+          "documents": 1,
+          "all_success": true,
+          "first_result": "success",
+          "first_ok": true,
+          "trace_chars": 317534,
+          "trust_mentions_in_trace": 0,
+          "error_mentions_in_trace": 0,
+          "strict": true
+        }
+      ]
+    }
+  ]
+}

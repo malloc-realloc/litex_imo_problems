@@ -1,0 +1,16 @@
+package	status	seconds	first_error
+IMO/problem_1/Solution-1	pass	24.3	
+IMO/problem_1/Solution-2	pass	41.2	
+IMO/problem_2/Solution-1	pass	0.8	
+IMO/problem_2/Solution-2	pass	1.6	
+IMO/problem_3	pass	6.4	
+IMO/problem_4	pass	27.2	
+IMO/problem_5/Solution-1	pass	3.5	
+IMO/problem_5/Solution-2	pass	20.4	
+IMO/problem_7	pass	6.0	
+IMO/problem_12	fail	3.5	thm cyclic_quarter_nested; thm problem_12
+IMO/problem_13	pass	384.5	
+IMO/problem_15	pass	7.8	
+IMO/problem_17	not_run		not run (did not finish in 1h42m on 1.0.6)
+IMO/problem_18	pass	54.0	
+IMO/problem_20	fail	52.7	thm three_plus_two_extension_20; thm three_vertex_five_extension_cardinality_20
